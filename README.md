@@ -18,7 +18,3 @@ June 15?
 | Sentiment Analysis for Community Chats [in Slack](https://github.com/michael-spengler/slack-channel-sentiment-analyzer/blob/main/README.md) | ? | |
 
 
-## Sentiment Analysis for Community Chats in Slack
-1. Get the messages: https://api.slack.com/messaging/retrieving
-2. Calculate Sentiment: https://huggingface.co/transformers/model_doc/gpt.html / https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment / https://huggingface.co/transformers/quicktour.html
-3. 

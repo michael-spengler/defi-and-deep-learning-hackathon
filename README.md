@@ -16,7 +16,7 @@ June 15?
 | 2 | Enhance [Price Predictor](https://github.com/michael-spengler/ml-server/blob/master/technical/service.go) | ? | |
 | 3 | Reinforcement Learning for [Trading](https://github.com/DHBWMannheim/MachineLearning) | ? | |
 | 4 | Sentiment Analysis for Community Chats [in Slack](https://github.com/michael-spengler/slack-channel-sentiment-analyzer/blob/main/README.md) | ? | |
-| 5 | FAQ Bot leveraging Fancy Flash Cards | ? | Divyansh Bajpai | 
+| 5 | FAQ Bot leveraging Fancy Flash Cards | Divyansh Bajpai |  | 
 
 ## Background Info on 1
 [Example which connects via Binance](https://github.com/michael-spengler/decentralized-finance/blob/main/src/gambling-strategies/low-brainer-based-using-binance/keep-the-balance.ts) leveraging the [Price Predictor](https://github.com/michael-spengler/ml-server/blob/master/technical/service.go)

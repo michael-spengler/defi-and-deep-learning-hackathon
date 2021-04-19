@@ -11,7 +11,7 @@ June 15?
 ## Topic Proposals
 
 | Number | Topic | Moderator | Channel |
-|-------||-------|-----------|---------|
+|-------|-------|-----------|---------|
 | 1 | Enhance [DeFi Package](https://www.npmjs.com/package/decentralized-finance-defi) | Michael Spengler | |
 | 2 | Enhance [Price Predictor](https://github.com/michael-spengler/ml-server/blob/master/technical/service.go) | ? | |
 | 3 | Reinforcement Learning for [Trading](https://github.com/DHBWMannheim/MachineLearning) | ? | |

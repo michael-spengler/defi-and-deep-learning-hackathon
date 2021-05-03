@@ -1,6 +1,6 @@
 # DeFi & Deep Learning Hackathon
 
-Supported by the SAP Tools Team & DHBW 
+Supported by the SAP Tools Team & DHBW Mannheim
 
 ## Time Proposal
 June 15?
@@ -26,6 +26,7 @@ https://ml.aaronschweig.dev/technical/BTC-USD?days=1
 https://ml.aaronschweig.dev/sentiment/twitter
 
 ## Background Info on 3
+You can make yourself familiar with [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) in order to prepare for this adventure.
 
 ## Background Info on 4
 
